@@ -20,7 +20,7 @@ tags: AboutMe
 我们也有自己的梦想，虽然我们经常自嘲自己是个苦逼码农，但是在我们从来不会忘记自己是个程序员和自己的梦想。
 
 
-![image](/img/me_300.jpg)
+![image](/img/v.jpg)
 # 徐宗亮
 
 工作：新生视觉算法工程师
@@ -36,5 +36,5 @@ tags: AboutMe
 
 
 *点击选择下面的付款方式，请我喝杯咖啡吧*
-<iframe src="http://hosea.xyz/donate2me/?item=easy-select-style" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
+<iframe src="http://hoseahsu.oschina.io/donate2me/?item=easy-select-style" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 

@@ -12,7 +12,7 @@ timezone:
 # custom Site settings
 # more detail check out docs
 SEOTitle: 徐宗亮(Hosea Hsu)的博客
-header-img: img/heaer-default.jpg
+header-img: img/header-default.jpg
 email: hoseahsu@gmail.com
 description: "徐宗亮在 Github 上的个人博客"
 keyword: 深度学习 博客 个人 徐宗亮 HoseaHsu# seo key words
@@ -138,7 +138,7 @@ deploy:
 
 
 # img CDN path
-cdn-url: / # 你的CDN地址
+cdn-url: http://cdn.hosea.pw/ # 你的CDN地址
 
 # Qiniu imageView2 API
 # More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
