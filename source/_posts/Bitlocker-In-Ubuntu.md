@@ -9,7 +9,12 @@ tags:
 
 ---
 
+![image](http://cdn.hosea.pw/16-11-7/38398795.jpg)
+
+<!-- more -->
+
 # 在ubuntu中使用bitlocker
+
 
 # 安装依赖
 

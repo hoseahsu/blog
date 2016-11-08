@@ -16,6 +16,9 @@ gitbook详细使用文档：[help.gitbook.com](help.gitbook.com)
 gitbook官网:[https://www.gitbook.com](https://www.gitbook.com)	
 github地址:[https://github.com/GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)
 
+<!-- more -->
+
+
 ## 1、安装
 首先到[nodejs](http://nodejs.cn/)下载，安装Node.js的包管理器npm。
 然后，通过`sudo npm install -g gitbook-cli`命令安装gitbook

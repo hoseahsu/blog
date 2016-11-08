@@ -6,7 +6,7 @@
 title: 徐宗亮(Hosea Hsu)
 subtitle: 热爱深度学习的视觉算法工程师
 author: 徐宗亮(Hosea Hsu)
-language: 
+language: zh-Hans
 timezone: 
 
 # custom Site settings
@@ -127,14 +127,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Anisina
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git 
-  repo: git@github.com:hoseahsu/blog.git
-  branch: gh-pages
+  repo:
+      github: git@github.com:hoseahsu/blog.git,gh-pages
+      coding: git@git.coding.net:hoseahsu/blog.git,pages
 
 
 # img CDN path
@@ -147,8 +148,8 @@ clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
 clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
 
 # post default images
-post-default-img: /img/header-default.jpg
-post-default-img-mobile: /img/header-default.jpg
+post-default-img: img/header-default.jpg
+post-default-img-mobile: img/header-default.jpg
 
 # search api , set your custom key
 swiftype_key: 

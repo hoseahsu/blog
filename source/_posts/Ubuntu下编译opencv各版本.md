@@ -13,6 +13,8 @@ tags:
 # OpenCV for linux
 
 
+<!-- more -->
+
 ## 一、编译安装
 
 ### 1. CMAKE

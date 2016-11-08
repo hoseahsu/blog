@@ -11,8 +11,11 @@ tags:
 
 ---
 
-# 手动安装oracle-jdk
+![image](http://cdn.hosea.pw/img/201611/android-studio.jpg)
 
+<!-- more -->
+
+# 手动安装oracle-jdk
 
 ##### 第一步,下载oracle-jdk
 
