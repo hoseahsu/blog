@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/10/11/youdao-dict-on-ubuntu16-04/</loc>
+    <lastmod>2016-11-08T09:32:24.685Z</lastmod>
+    <data>
+        <display>
+        <title>在ubuntu16.04上安装有道词典</title>
+        <pubTime>2016-10-11T12:00:37.000Z</pubTime>
+        
+        <tag>有道</tag>
+         
+        <tag>词典</tag>
+         
+        <tag>ubuntu16.04</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/09/19/Bitlocker-In-Ubuntu/</loc>
+    <lastmod>2016-11-07T13:27:54.814Z</lastmod>
+    <data>
+        <display>
+        <title>在Ubuntu中挂载BitLocker加密的磁盘</title>
+        <pubTime>2016-09-19T09:37:13.000Z</pubTime>
+        
+        <tag>Ubuntu</tag>
+         
+        <tag>BitLocker</tag>
+         
+        <tag>加密</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/09/21/androidInUbuntuAndUseOraclejdk/</loc>
+    <lastmod>2016-11-07T13:18:25.054Z</lastmod>
+    <data>
+        <display>
+        <title>在ubuntu下安装android studio和oracle-JDK</title>
+        <pubTime>2016-09-21T13:03:49.000Z</pubTime>
+        
+        <tag>Ubuntu</tag>
+         
+        <tag>android</tag>
+         
+        <tag>android studio</tag>
+         
+        <tag>oracle-jdk</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/01/01/hello-world/</loc>
+    <lastmod>2016-11-07T12:29:53.874Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-01-01T01:21:25.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/08/31/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-chapter-2/</loc>
+    <lastmod>2016-11-07T12:27:50.274Z</lastmod>
+    <data>
+        <display>
+        <title>深度学习 chapter 2</title>
+        <pubTime>2016-08-31T01:27:48.000Z</pubTime>
+        
+        <tag>深度学习</tag>
+         
+        <tag>机器学习</tag>
+         
+        <tag>学习资料</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/08/26/Ubuntu%E4%B8%8B%E7%BC%96%E8%AF%91opencv%E5%90%84%E7%89%88%E6%9C%AC/</loc>
+    <lastmod>2016-11-07T12:27:24.378Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu下编译opencv各版本</title>
+        <pubTime>2016-08-26T07:52:44.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+        <tag>opencv</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/01/01/2016-01-01-gitbook-install-and-using/</loc>
+    <lastmod>2016-11-07T12:26:27.142Z</lastmod>
+    <data>
+        <display>
+        <title>Gitbook安装使用</title>
+        <pubTime>2016-01-01T02:21:25.000Z</pubTime>
+        
+        <tag>Gitbook</tag>
+         
+        <tag>Gitbook安装使用</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://blog.hosea.xyz/2016/08/30/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-chapter-1/</loc>
+    <lastmod>2016-11-07T09:55:05.162Z</lastmod>
+    <data>
+        <display>
+        <title>深度学习 chapter 1</title>
+        <pubTime>2016-08-30T14:22:23.000Z</pubTime>
+        
+        <tag>深度学习</tag>
+         
+        <tag>机器学习</tag>
+         
+        <tag>学习资料</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
