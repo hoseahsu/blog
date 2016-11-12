@@ -152,5 +152,10 @@ post-default-img: img/header-default.jpg
 post-default-img-mobile: img/header-default.jpg
 
 # search api , set your custom key
-swiftype_key: 
+#swiftype_key: 
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
