@@ -135,7 +135,7 @@ deploy:
   type: git 
   repo:
       github: git@github.com:hoseahsu/blog.git,gh-pages
-      coding: git@git.coding.net:hoseahsu/blog.git,pages
+      coding: git@git.coding.net:hoseahsu/blog.git,master
 
 
 # img CDN path
