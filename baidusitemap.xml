@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>http://blog.hosea.xyz/2016/01/01/hello-world/</loc>
+    <lastmod>2016-11-17T09:48:21.951Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-01-01T01:21:25.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.hosea.xyz/2016/10/11/youdao-dict-on-ubuntu16-04/</loc>
     <lastmod>2016-11-08T09:32:24.685Z</lastmod>
     <data>
@@ -61,21 +76,6 @@
          
         <tag>oracle-jdk</tag>
          
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.hosea.xyz/2016/01/01/hello-world/</loc>
-    <lastmod>2016-11-07T12:29:53.874Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-01-01T01:21:25.000Z</pubTime>
-        
          
            
         </display>
