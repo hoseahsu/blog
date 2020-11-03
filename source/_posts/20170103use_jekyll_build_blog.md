@@ -1,6 +1,12 @@
-# 使用jekyll搭建个人博客
-
-------
+---
+layout: post
+title: 使用jekyll搭建个人博客
+date: 2016-09-26 15:52:44
+header-img: /img/opencv-logo.png
+tags: 
+    - 博客
+    - jekyll
+---
 
 1. [ruby 安装](#ruby-install)
 
@@ -18,6 +24,8 @@ $ curl -sSL https://get.rvm.io | bash -s stable
 # 如果上面的连接失败，可以尝试: 
 $ curl -L https://raw.githubusercontent.com/wayneeseguin/rvm/master/binscripts/rvm-installer | bash -s stable
 ```
+
+<!-- more -->
 
 然后，载入 RVM 环境（新开 Termal 就不用这么做了，会自动重新载入的）
 
